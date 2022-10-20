@@ -1,0 +1,14 @@
+.FormInput {
+    display: flex;
+    
+}
+
+.FormInput_area {
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.label {
+    margin-top: 1rem;
+    margin-bottom: 5px;
+}
